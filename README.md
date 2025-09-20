@@ -6,9 +6,9 @@ The internship focused on practical machine learning, data analysis, and real-wo
 # 🚀 Internship Tasks
 ## Task 1: Iris Flower Classification
 
-Objective: Classify Iris flowers into species (Setosa, Versicolor, Virginica) using their sepal and petal measurements.
+### Objective: Classify Iris flowers into species (Setosa, Versicolor, Virginica) using their sepal and petal measurements.
 
-# Workflow:
+### Workflow:
 
 Used the Iris dataset (scikit-learn / CSV version).
 
@@ -22,9 +22,9 @@ Outcome: Achieved high accuracy (>95%) in predicting flower species.
 
 ## Task 2: Unemployment Analysis with Python
 
-Objective: Analyze unemployment rate trends in India, especially during Covid-19.
+### Objective: Analyze unemployment rate trends in India, especially during Covid-19.
 
-Workflow:
+### Workflow:
 
 Cleaned and processed unemployment dataset (columns: Region, Date, Frequency, Unemployment Rate (%), Employed, Labour Participation).
 
@@ -38,9 +38,9 @@ Outcome: Clear insights into the rise in unemployment during Covid-19 and identi
 
 ## Task 3: Car Price Prediction with Machine Learning
 
-Objective: Predict the selling price of used cars based on multiple features.
+### Objective: Predict the selling price of used cars based on multiple features.
 
-Workflow:
+### Workflow:
 
 Preprocessed dataset (features: Year, Present Price, Driven Kms, Fuel Type, Transmission, Owner).
 
