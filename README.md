@@ -1,14 +1,14 @@
-Data Science Internship – CodeAlpha
+# Data Science Internship – CodeAlpha
 
 This repository contains the projects completed during my Data Science Internship with CodeAlpha.
 The internship focused on practical machine learning, data analysis, and real-world applications of data science concepts.
 
-🚀 Internship Tasks
-Task 1: Iris Flower Classification
+# 🚀 Internship Tasks
+## Task 1: Iris Flower Classification
 
 Objective: Classify Iris flowers into species (Setosa, Versicolor, Virginica) using their sepal and petal measurements.
 
-Workflow:
+# Workflow:
 
 Used the Iris dataset (scikit-learn / CSV version).
 
@@ -20,7 +20,7 @@ Evaluated using accuracy score and classification report.
 
 Outcome: Achieved high accuracy (>95%) in predicting flower species.
 
-Task 2: Unemployment Analysis with Python
+## Task 2: Unemployment Analysis with Python
 
 Objective: Analyze unemployment rate trends in India, especially during Covid-19.
 
@@ -36,7 +36,7 @@ Investigated seasonal and regional unemployment trends.
 
 Outcome: Clear insights into the rise in unemployment during Covid-19 and identification of regional variations.
 
-Task 3: Car Price Prediction with Machine Learning
+## Task 3: Car Price Prediction with Machine Learning
 
 Objective: Predict the selling price of used cars based on multiple features.
 
@@ -56,7 +56,7 @@ Visualized actual vs predicted prices and feature importance.
 
 Outcome: Random Forest model performed better in predicting car prices with higher accuracy.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Languages: Python
 
@@ -66,7 +66,7 @@ Models: Logistic Regression, Decision Trees, Random Forest, Linear Regression
 
 Tools: Jupyter Notebook / VS Code
 
-📌 Key Learnings
+# 📌 Key Learnings
 
 Hands-on experience with data preprocessing, encoding, and scaling.
 
@@ -76,7 +76,7 @@ Gained insights into real-world datasets like unemployment trends and car pricin
 
 Improved understanding of evaluation metrics and visualization techniques.
 
-📂 Repository Structure
+# 📂 Repository Structure
 ├── Task 1 - Iris Classification
 │   ├── iris_classification.ipynb
 │   └── iris_dataset.csv
