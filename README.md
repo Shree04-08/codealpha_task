@@ -76,20 +76,7 @@ Gained insights into real-world datasets like unemployment trends and car pricin
 
 Improved understanding of evaluation metrics and visualization techniques.
 
-# 📂 Repository Structure
-├── Task 1 - Iris Classification
-│   ├── iris_classification.ipynb
-│   └── iris_dataset.csv
-│
-├── Task 2 - Unemployment Analysis
-│   ├── unemployment_analysis.ipynb
-│   └── unemployment_data.csv
-│
-├── Task 3 - Car Price Prediction
-│   ├── car_price_prediction.ipynb
-│   └── car_data.csv
-│
-└── README.md
+
 
 
 ✨ Successfully completed 3 tasks demonstrating Machine Learning & Data Analysis skills during the internship at CodeAlpha.
